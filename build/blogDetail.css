@@ -17,7 +17,7 @@
     line-height: 66px; }
     .header-container .header-body .logo {
       margin-left: 40px;
-      width: 96px;
+      width: 244px;
       vertical-align: sub; }
     .header-container .header-body .header-menu {
       float: right; }
@@ -75,6 +75,8 @@
     .header-container .header-body .language-switch-normal {
       border: 1px solid #333;
       color: #333; }
+    .header-container .header-body .language-switch {
+      display: none; }
     .header-container .header-body .search {
       float: right;
       width: 24px;
@@ -84,7 +86,7 @@
       line-height: normal;
       position: relative; }
       .header-container .header-body .search .icon-search {
-        display: inline-block;
+        display: none;
         cursor: pointer;
         width: 12px;
         height: 12px;
