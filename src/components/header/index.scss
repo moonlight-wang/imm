@@ -21,7 +21,7 @@
     line-height: $headerHeight;
     .logo {
       margin-left: 40px;
-      width: 96px;
+      width: 244px;
       vertical-align: sub;
     }
     .header-menu {
@@ -111,6 +111,9 @@
       border: 1px solid #333;
       color: #333;
     }
+    .language-switch {
+      display: none;
+    }
     .search {
       float: right;
       width: 24px;
@@ -120,7 +123,7 @@
       line-height: normal;
       position: relative;
       .icon-search {
-        display: inline-block;
+        display: none;
         cursor: pointer;
         width: 12px;
         height: 12px;

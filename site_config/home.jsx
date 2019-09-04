@@ -1,75 +1,70 @@
 import React from 'react';
 
 export default {
-  'zh-cn': {
+  'en-us': {
     brand: {
-      brandName: '开源产品品牌名称',
-      briefIntroduction: '关于开源产品的简单介绍',
+      brandName: 'Integrated Maritime Group',
+      briefIntroduction: 'To be the trusted partner to our Customers delivering first class and fully integrated maritime services.',
       buttons: [
         {
-          text: '立即开始',
-          link: '/zh-cn/docs/demo1.html',
+          text: 'Connect Us',
+          link: '/en-us/docs/demo1.html',
           type: 'primary',
-        },
-        {
-          text: '查看Github',
-          link: '',
-          type: 'normal',
         },
       ],
     },
     introduction: {
-      title: '开源产品的介绍',
-      desc: '开源产品的简单介绍，提供一些该产品的优点、特性描述等',
+      title: 'introduction title',
+      desc: 'some introduction of your product',
       img: '/img/architecture.png',
     },
     features: {
-      title: '特性一览',
+      title: 'Our Services',
       list: [
         {
-          img: '/img/feature_transpart.png',
-          title: '特性1',
-          content: '特性1的简单概括',
+          img: '/img/service_tech.jpg',
+          title: 'Technical Management',
+          content: 'With our resources and experience, we are capable of managing technically a diverse spectrum of cargo vessels. IMM holds Document of Compliance(DoC) issued by Lloyds Register(LR) on behalf of various Flag States.',
         },
         {
-          img: '/img/feature_loadbalances.png',
-          title: '特性2',
-          content: '特性2的简单概括',
+          img: '/img/service_quality.jpg',
+          title: 'Quality Management',
+          content: 'We provide customised Quality Management solutions including pre-vetting inspections, onboard training, internal audits and various other investigations in line with the industry standards and other applicable regulations.',
         },
         {
-          img: '/img/feature_service.png',
-          title: '特性3',
-          content: '特性3的简单概括',
+          img: '/img/service_commercial.jpg',
+          title: 'Commercial Management',
+          content: 'With our connections in the industry and our in house expertise and resources, we are able to manage and operate the vessels commercially for our Clients.',
         },
         {
-          img: '/img/feature_hogh.png',
-          title: '特性4',
-          content: '特性4的简单概括',
+          img: '/img/service_crew.jpg',
+          title: 'Crew Management',
+          content: 'We provide competent, motivated and experienced crew based on our diligent crew selection process and our presence in countries with major crew nationalities. We use strict matrix for the requirement of new inductees and impart state of the art training.',
         },
         {
-          img: '/img/feature_runtime.png',
-          title: '特性5',
-          content: '特性5的简单概括',
+          img: '/img/service_insurance.jpg',
+          title: 'Insurance',
+          content: 'We manage the risks in the shipping industry effectively with our extensive in-house knowledge and experience. Our insurance services cover hull and machinery, freight, demurrage & defence (FD&D), crew, cargo and general average, damage to property, pollution, loss of hire, war risks, wreck removal, liabilities under MLC, New Building Risks etc.',
         },
         {
-          img: '/img/feature_maintenance.png',
-          title: '特性6',
-          content: '特性6的简单概括',
-        },
-      ],
+          img: '/img/service_supervision.jpg',
+          title: 'New Building Supervision',
+          content: 'We are well positioned to assist our clients in finalising specifications, meeting the demands of new building and site supervision leading to optimal and cost effective outcome of the project.',
+        }
+      ]
     },
     start: {
-      title: '快速开始',
-      desc: '简单描述',
+      title: 'Quick start',
+      desc: 'some description text',
       img: '/img/quick_start.png',
       button: {
-        text: '阅读更多',
-        link: '/zh-cn/docs/demo1.html',
+        text: 'READ MORE',
+        link: '/en-us/docs/demo1.html',
       },
     },
     users: {
-      title: '用户',
-      desc: <span>简单描述</span>,
+      title: 'users',
+      desc: <span>some description</span>,
       list: [
         '/img/users_alibaba.png',
         '/img/users_alibaba.png',
@@ -90,20 +85,15 @@ export default {
       ],
     },
   },
-  'en-us': {
+  'zh-cn': {
     brand: {
-      brandName: 'brandName',
-      briefIntroduction: 'some description of product',
+      brandName: 'Integrated Maritime Group',
+      briefIntroduction: 'To be the trusted partner to our Customers delivering first class and fully integrated maritime services.',
       buttons: [
         {
-          text: 'Quick Start',
+          text: 'Connect Us',
           link: '/en-us/docs/demo1.html',
           type: 'primary',
-        },
-        {
-          text: 'View on Github',
-          link: '',
-          type: 'normal',
         },
       ],
     },
@@ -113,37 +103,37 @@ export default {
       img: '/img/architecture.png',
     },
     features: {
-      title: 'Feature List',
+      title: 'Our Services',
       list: [
         {
-          img: '/img/feature_transpart.png',
-          title: 'feature1',
-          content: 'feature description',
+          img: '/img/service_tech.jpg',
+          title: 'Technical Management',
+          content: 'With our resources and experience, we are capable of managing technically a diverse spectrum of cargo vessels. IMM holds Document of Compliance(DoC) issued by Lloyds Register(LR) on behalf of various Flag States.',
         },
         {
-          img: '/img/feature_loadbalances.png',
-          title: 'feature2',
-          content: 'feature description',
+          img: '/img/service_quality.jpg',
+          title: 'Quality Management',
+          content: 'We provide customised Quality Management solutions including pre-vetting inspections, onboard training, internal audits and various other investigations in line with the industry standards and other applicable regulations.',
         },
         {
-          img: '/img/feature_service.png',
-          title: 'feature3',
-          content: 'feature description',
+          img: '/img/service_commercial.jpg',
+          title: 'Commercial Management',
+          content: 'With our connections in the industry and our in house expertise and resources, we are able to manage and operate the vessels commercially for our Clients.',
         },
         {
-          img: '/img/feature_hogh.png',
-          title: 'feature4',
-          content: 'feature description',
+          img: '/img/service_crew.jpg',
+          title: 'Crew Management',
+          content: 'We provide competent, motivated and experienced crew based on our diligent crew selection process and our presence in countries with major crew nationalities. We use strict matrix for the requirement of new inductees and impart state of the art training.',
         },
         {
-          img: '/img/feature_runtime.png',
-          title: 'feature5',
-          content: 'feature description',
+          img: '/img/service_insurance.jpg',
+          title: 'Insurance',
+          content: 'We manage the risks in the shipping industry effectively with our extensive in-house knowledge and experience. Our insurance services cover hull and machinery, freight, demurrage & defence (FD&D), crew, cargo and general average, damage to property, pollution, loss of hire, war risks, wreck removal, liabilities under MLC, New Building Risks etc.',
         },
         {
-          img: '/img/feature_maintenance.png',
-          title: 'feature6',
-          content: 'feature description',
+          img: '/img/service_supervision.jpg',
+          title: 'New Building Supervision',
+          content: 'We are well positioned to assist our clients in finalising specifications, meeting the demands of new building and site supervision leading to optimal and cost effective outcome of the project.',
         }
       ]
     },

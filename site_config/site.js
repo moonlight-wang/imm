@@ -13,19 +13,24 @@ export default {
         link: '/en-us/index.html',
       },
       {
-        key: 'docs',
-        text: 'DOCS',
-        link: '/en-us/docs/demo1.html',
+        key: 'about us',
+        text: 'About Us',
+        link: '/en-us/docs/aboutus.html',
       },
       {
-        key: 'blog',
-        text: 'BLOG',
-        link: '/en-us/blog/index.html',
+        key: 'services',
+        text: 'Services',
+        link: '/en-us/docs/services.html',
       },
       {
-        key: 'community',
-        text: 'COMMUNITY',
-        link: '/en-us/community/index.html',
+        key: 'team',
+        text: 'Team',
+        link: '/en-us/docs/team.html',
+      },
+      {
+        key: 'connects',
+        text: 'Connects',
+        link: '/en-us/docs/connects.html',
       },
     ],
     disclaimer: {
@@ -62,8 +67,8 @@ export default {
         },
       ],
     },
-    copyright: 'Copyright © 2018 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-  },
+    copyright: 'Copyright © 2019 Integrated Maritime Group Ltd',
+  }, 
   'zh-cn': {
     pageMenu: [
       {

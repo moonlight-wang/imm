@@ -2,30 +2,28 @@ export default {
   'en-us': {
     sidemenu: [
       {
-        title: 'header title',
+        title: 'Menu',
         children: [
           {
-            title: 'demo1',
-            link: '/en-us/docs/demo1.html',
+            title: 'About us',
+            link: '/en-us/docs/aboutus.html',
           },
           {
-            title: 'demo2',
-            link: '/en-us/docs/demo2.html',
+            title: 'Services',
+            link: '/en-us/docs/services.html',
           },
           {
-            title: 'dir',
-            opened: true,
-            children: [
-              {
-                title: 'demo3',
-                link: '/en-us/docs/dir/demo3.html',
-              },
-            ],
+            title: 'team',
+            link: '/en-us/docs/team.html',
           },
+          {
+            title: 'connects',
+            link: '/en-us/docs/connects.html',
+          }
         ],
       },
     ],
-    barText: 'Documentation',
+    barText: 'Integrated Maritime Group',
   },
   'zh-cn': {
     sidemenu: [

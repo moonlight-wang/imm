@@ -30,12 +30,12 @@ const noop = () => {};
 const propTypes = {
   currentKey: PropTypes.string,
   logo: PropTypes.string.isRequired,
-  type: PropTypes.oneOf(['primary', 'normal']),
+  type: PropTypes.oneOf(['normal']),
   language: PropTypes.oneOf(['en-us', 'zh-cn']),
   onLanguageChange: PropTypes.func,
 };
 const defaultProps = {
-  type: 'primary',
+  type: 'normal',
   language: 'en-us',
   onLanguageChange: noop,
 };
@@ -45,7 +45,7 @@ class Header extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      menuBodyVisible: false,
+      menuBodyVisible: true,
       language: props.language,
       search: siteConfig.defaultSearch,
       searchValue: '',
@@ -121,7 +121,7 @@ class Header extends React.Component {
         className={
           classnames({
             'header-container': true,
-            [`header-container-${type}`]: true,
+            [`header-container-normal`]: true,
           })
         }
       >
