@@ -84,7 +84,8 @@
       margin-top: 21px;
       margin-right: 40px;
       line-height: normal;
-      position: relative; }
+      position: relative;
+      display: none; }
       .header-container .header-body .search .icon-search {
         display: none;
         cursor: pointer;

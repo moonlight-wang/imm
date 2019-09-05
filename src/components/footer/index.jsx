@@ -20,18 +20,8 @@ class Footer extends React.Component {
           <img src={getLink(logo)} />
           <div className="cols-container">
             <div className="col col-12">
-              {/* <h3>{dataSource.disclaimer.title}</h3>
-              <p>{dataSource.disclaimer.content}</p> */}
-            </div>
-            <div className="col col-6">
-              <dl>
-                <dt>{dataSource.documentation.title}</dt>
-                {
-                  dataSource.documentation.list.map((d, i) => (
-                    <dd key={i}><a href={getLink(d.link)} target={d.target || '_self'}>{d.text}</a></dd>
-                  ))
-                }
-              </dl>
+              <h3>Head Office</h3>
+              <p>70 Shenton Way, #21-11 Eon Shenton, Singapore 079118</p>
             </div>
             <div className="col col-6">
             <dl>

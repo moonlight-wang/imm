@@ -13,12 +13,16 @@ export default {
             link: '/en-us/docs/services.html',
           },
           {
-            title: 'team',
+            title: 'Team',
             link: '/en-us/docs/team.html',
           },
           {
-            title: 'connects',
+            title: 'Connects',
             link: '/en-us/docs/connects.html',
+          },
+          {
+            title: 'Join Us',
+            link: '/en-us/docs/joinus.html',
           }
         ],
       },

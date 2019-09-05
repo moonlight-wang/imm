@@ -8,7 +8,7 @@ export default {
       buttons: [
         {
           text: 'Connect Us',
-          link: '/en-us/docs/demo1.html',
+          link: '/en-us/docs/connects.html',
           type: 'primary',
         },
       ],

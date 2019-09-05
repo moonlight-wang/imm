@@ -6,13 +6,23 @@
       "meta": {}
     },
     {
-      "filename": "demo2.md",
-      "link": "\\en-us\\docs\\demo2.html",
+      "filename": "connects.md",
+      "link": "\\en-us\\docs\\connects.html",
       "meta": {}
     },
     {
-      "filename": "demo3.md",
-      "link": "\\en-us\\docs\\dir\\demo3.html",
+      "filename": "joinus.md",
+      "link": "\\en-us\\docs\\joinus.html",
+      "meta": {}
+    },
+    {
+      "filename": "services.md",
+      "link": "\\en-us\\docs\\services.html",
+      "meta": {}
+    },
+    {
+      "filename": "team.md",
+      "link": "\\en-us\\docs\\team.html",
       "meta": {}
     }
   ],

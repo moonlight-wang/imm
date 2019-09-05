@@ -32,38 +32,26 @@ export default {
         text: 'Connects',
         link: '/en-us/docs/connects.html',
       },
+      {
+        key: 'join us',
+        text: 'Join Us',
+        link: '/en-us/docs/joinus.html',
+      },
     ],
     disclaimer: {
       title: 'Disclaimer',
       content: 'the disclaimer content',
     },
-    documentation: {
-      title: 'Documentation',
-      list: [
-        {
-          text: 'Overview',
-          link: '/en-us/docs/demo1.html',
-        },
-        {
-          text: 'Quick start',
-          link: '/en-us/docs/demo2.html',
-        },
-        {
-          text: 'Developer guide',
-          link: '/en-us/docs/dir/demo3.html',
-        },
-      ],
-    },
     resources: {
-      title: 'Resources',
+      title: 'Links',
       list: [
         {
-          text: 'Blog',
-          link: '/en-us/blog/index.html',
+          text: 'Connects',
+          link: '/en-us/docs/connects.html',
         },
         {
-          text: 'Community',
-          link: '/en-us/community/index.html',
+          text: 'Join Us',
+          link: '/en-us/docs/joinus.html',
         },
       ],
     },

@@ -45,7 +45,7 @@ class Header extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      menuBodyVisible: true,
+      menuBodyVisible: false,
       language: props.language,
       search: siteConfig.defaultSearch,
       searchValue: '',
@@ -178,7 +178,7 @@ class Header extends React.Component {
             <img
               className="header-menu-toggle"
               onClick={this.toggleMenu}
-              src={type === 'primary' ? getLink('/img/system/menu_white.png') : getLink('/img/system/menu_gray.png')}
+              src={getLink('/img/system/menu_gray.png')}
             />
             <ul>
               {siteConfig[language].pageMenu.map(item => (
