@@ -8,9 +8,9 @@ pages:
    description: '页面内容简介'
   # home config
   en-us:
-   title: 'page title'
-   keywords: 'keyword1,keyword2'
-   description: 'page description'
+   title: 'Integrated Maritime Group'
+   keywords: 'Integrated Maritime Group,Integrated Maritime,IMM'
+   description: 'Integrated Maritime Group is '
  community:
   # 社区页配置
   zh-cn:
