@@ -27,7 +27,7 @@ export default {
         ],
       },
     ],
-    barText: 'Integrated Maritime Group',
+    barText: 'IMM Group',
   },
   'zh-cn': {
     sidemenu: [
