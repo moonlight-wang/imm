@@ -5,7 +5,7 @@ export default {
         title: 'Menu',
         children: [
           {
-            title: 'About us',
+            title: 'About Us',
             link: '/en-us/docs/aboutus.html',
           },
           {
@@ -17,8 +17,8 @@ export default {
             link: '/en-us/docs/team.html',
           },
           {
-            title: 'Connects',
-            link: '/en-us/docs/connects.html',
+            title: 'Connects Us',
+            link: '/en-us/docs/connectsus.html',
           },
           {
             title: 'Join Us',

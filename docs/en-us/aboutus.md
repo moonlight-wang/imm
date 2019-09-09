@@ -1,6 +1,11 @@
 # About Us
 
 Integrated Maritime Management (IMM) was established by a group of highly experienced and skilled individuals from the shipping industry to offer fully integrated maritime services to the customers across the globe. The company was incorporated in 2019, located strategically in Singapore with branch offices worldwide in key locations. With our collective experience, knowledge and passion, we cater to all areas of Shipping and Ship Management enabled services at a very reasonable cost. Regardless of the size, type, built and nationality of the vessels and crew, we can provide end to end solutions exceeding our customers’ expectations.
+<center>
+
+![LNG WORK](./img/lng.jpg)
+Our LNG vessel completing ship to ship operation
+</center>
 
 ## Our Vision: 
 Trusted partner to our Customers delivering first class and fully integrated maritime services.

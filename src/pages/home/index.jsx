@@ -61,11 +61,6 @@ class Home extends Language {
               </div>
             </div>
           </div>
-          <div className="animation animation1" />
-          <div className="animation animation2" />
-          <div className="animation animation3" />
-          <div className="animation animation4" />
-          <div className="animation animation5" />
         </section>
         {/* <section className="introduction-section">
           <div className="introduction-body">

@@ -1,4 +1,4 @@
-# Our Services
+# Services
 ## Technical Management
 With a collective experience of over 100 years among our team in the maritime industry, we can provide best technical management services to any type and size of the vessels in a very cost-effective manner. Our relationship with major industry players and suppliers enables us to leverage the best pricing for our customers.
 Technical Management function includes the day-to-day technical operation of the vessels in compliance with International Safety Management(ISM) code and other applicable regulations. IMM is certified by Classification Society Lloyds Register to perform its ISM related responsibilities. All vessels under the technical management of IMM receives professional care by marine and technical team. 
