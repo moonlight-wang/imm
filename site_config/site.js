@@ -28,9 +28,9 @@ export default {
         link: '/en-us/docs/team.html',
       },
       {
-        key: 'connect us',
-        text: 'Connect Us',
-        link: '/en-us/docs/connectus.html',
+        key: 'contact us',
+        text: 'Contact Us',
+        link: '/en-us/docs/contactus.html',
       },
       {
         key: 'join us',
@@ -46,8 +46,8 @@ export default {
       title: 'Links',
       list: [
         {
-          text: 'Connects Us',
-          link: '/en-us/docs/connectsus.html',
+          text: 'Contact Us',
+          link: '/en-us/docs/contactus.html',
         },
         {
           text: 'Join Us',

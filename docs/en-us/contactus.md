@@ -1,4 +1,4 @@
-# Connects Us
+# Contact Us
 ## Our Global Presence
 
 <center>
@@ -23,7 +23,8 @@ Kerala, India
 3. China – Branch Office
 Rm1602., Tower D, Poly Oriental Mansion ( Baoli Dongjun), No. 129, North 
 Balizhuang, Chaoyang Dist, Beijing. P.R.C.  
-Tel: +86 10 6530 8801
+Tel: +86 10 6530 8801  
+Email: info@imaritime.cn
 
 1. Dubai – Branch Office
 Updating Soon…..

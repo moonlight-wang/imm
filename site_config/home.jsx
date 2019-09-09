@@ -7,8 +7,8 @@ export default {
       briefIntroduction: 'To be the trusted partner to our Customers delivering first class and fully integrated maritime services.',
       buttons: [
         {
-          text: 'Connect Us',
-          link: '/en-us/docs/connectsus.html',
+          text: 'Contact Us',
+          link: '/en-us/docs/contactus.html',
           type: 'primary',
         },
       ],
@@ -91,7 +91,7 @@ export default {
       briefIntroduction: 'To be the trusted partner to our Customers delivering first class and fully integrated maritime services.',
       buttons: [
         {
-          text: 'Connect Us',
+          text: 'Contact Us',
           link: '/en-us/docs/demo1.html',
           type: 'primary',
         },

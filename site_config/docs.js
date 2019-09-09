@@ -17,8 +17,8 @@ export default {
             link: '/en-us/docs/team.html',
           },
           {
-            title: 'Connect Us',
-            link: '/en-us/docs/connectus.html',
+            title: 'Contact Us',
+            link: '/en-us/docs/contactus.html',
           },
           {
             title: 'Join Us',
