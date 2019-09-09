@@ -28,9 +28,9 @@ export default {
         link: '/en-us/docs/team.html',
       },
       {
-        key: 'connects us',
-        text: 'Connects Us',
-        link: '/en-us/docs/connectsus.html',
+        key: 'connect us',
+        text: 'Connect Us',
+        link: '/en-us/docs/connectus.html',
       },
       {
         key: 'join us',
