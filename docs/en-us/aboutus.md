@@ -15,6 +15,7 @@ We are poised to provide comprehensive range of management services with focus o
 1. **Safety** – Safety is our first priority and assurance.
 2. **Excellence** – Stand apart in everything we do by exceeding our commitment to Customers and industry stake holders. 
 3. **Integrity** – We are committed to delivering our services with highest degree of honesty & transparency.  
-4. **Innovation** – We pride ourselves with constant innovation using most up to date technologies available to provide accuracy and efficiency in our works.Protection of Environment – We carefully consider impact to our environment in everything we do and protect & preserve it. 
-5. **Teamwork** – We believe in achieving together as a team. 
-6. **Customers First** – We strive to meet Customer requirements by providing tailor made solutions.
+4. **Innovation** – We pride ourselves with constant innovation using most up to date technologies available to provide accuracy and efficiency in our works.
+5. **Protection of Environment** – We carefully consider impact to our environment in everything we do and protect & preserve it. 
+6. **Teamwork** – We believe in achieving together as a team. 
+7. **Customers First** – We strive to meet Customer requirements by providing tailor made solutions.
