@@ -60,60 +60,53 @@ export default {
   'zh-cn': {
     pageMenu: [
       {
-        key: 'home',
+        key: '首页', // 用作顶部菜单的选中
         text: '首页',
         link: '/zh-cn/index.html',
       },
       {
-        key: 'docs',
-        text: '文档',
-        link: '/zh-cn/docs/demo1.html',
+        key: '关于我们',
+        text: '关于我们',
+        link: '/zh-cn/docs/aboutus.html',
       },
       {
-        key: 'blog',
-        text: '博客',
-        link: '/zh-cn/blog/index.html',
+        key: '服务',
+        text: '服务',
+        link: '/zh-cn/docs/services.html',
       },
       {
-        key: 'community',
-        text: '社区',
-        link: '/zh-cn/community/index.html',
+        key: '团队',
+        text: '团队',
+        link: '/zh-cn/docs/team.html',
+      },
+      {
+        key: '联系我们',
+        text: '联系我们',
+        link: '/zh-cn/docs/contactus.html',
+      },
+      {
+        key: '加入我们',
+        text: '加入我们',
+        link: '/zh-cn/docs/joinus.html',
       },
     ],
     disclaimer: {
-      title: '免责声明',
-      content: '免责声明的具体内容',
-    },
-    documentation: {
-      title: '文档',
-      list: [
-        {
-          text: '概览',
-          link: '/zh-cn/docs/demo1.html',
-        },
-        {
-          text: '快速开始',
-          link: '/zh-cn/docs/demo2.html',
-        },
-        {
-          text: '开发者指南',
-          link: '/zh-cn/docs/dir/demo3.html',
-        },
-      ],
+      title: 'Disclaimer',
+      content: 'the disclaimer content',
     },
     resources: {
-      title: '资源',
+      title: '链接',
       list: [
         {
-          text: '博客',
-          link: '/zh-cn/blog/index.html',
+          text: '联系我们',
+          link: '/zh-cn/docs/contactus.html',
         },
         {
-          text: '社区',
-          link: '/zh-cn/community/index.html',
+          text: '加入我们',
+          link: '/zh-cn/docs/joinus.html',
         },
       ],
     },
-    copyright: 'Copyright © 2018 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    copyright: 'Copyright © 2019 Integrated Maritime Group Ltd',
   },
 };

@@ -32,29 +32,31 @@ export default {
   'zh-cn': {
     sidemenu: [
       {
-        title: '大标题',
+        title: '菜单',
         children: [
           {
-            title: '示例1',
-            link: '/zh-cn/docs/demo1.html',
+            title: '关于我们',
+            link: '/en-us/docs/aboutus.html',
           },
           {
-            title: '示例2',
-            link: '/zh-cn/docs/demo2.html',
+            title: '服务',
+            link: '/en-us/docs/services.html',
           },
           {
-            title: '目录',
-            opened: true,
-            children: [
-              {
-                title: '示例3',
-                link: '/zh-cn/docs/dir/demo3.html',
-              },
-            ],
+            title: '团队',
+            link: '/en-us/docs/team.html',
           },
+          {
+            title: '联系我们',
+            link: '/en-us/docs/contactus.html',
+          },
+          {
+            title: '加入我们',
+            link: '/en-us/docs/joinus.html',
+          }
         ],
       },
     ],
-    barText: '文档',
+    barText: 'iMaritime Mgmt',
   },
 };

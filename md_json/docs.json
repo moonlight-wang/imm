@@ -28,18 +28,28 @@
   ],
   "zh-cn": [
     {
-      "filename": "demo1.md",
-      "link": "\\zh-cn\\docs\\demo1.html",
+      "filename": "aboutus.md",
+      "link": "\\zh-cn\\docs\\aboutus.html",
       "meta": {}
     },
     {
-      "filename": "demo2.md",
-      "link": "\\zh-cn\\docs\\demo2.html",
+      "filename": "contactus.md",
+      "link": "\\zh-cn\\docs\\contactus.html",
       "meta": {}
     },
     {
-      "filename": "demo3.md",
-      "link": "\\zh-cn\\docs\\dir\\demo3.html",
+      "filename": "joinus.md",
+      "link": "\\zh-cn\\docs\\joinus.html",
+      "meta": {}
+    },
+    {
+      "filename": "services.md",
+      "link": "\\zh-cn\\docs\\services.html",
+      "meta": {}
+    },
+    {
+      "filename": "team.md",
+      "link": "\\zh-cn\\docs\\team.html",
       "meta": {}
     }
   ]
