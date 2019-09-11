@@ -27,7 +27,7 @@ export default {
         ],
       },
     ],
-    barText: 'iMaritime Mgmt',
+    barText: 'iMaritime Management (SG) PTE LTD',
   },
   'zh-cn': {
     sidemenu: [
@@ -57,6 +57,6 @@ export default {
         ],
       },
     ],
-    barText: 'iMaritime Mgmt',
+    barText: 'iMaritime Management (SG) PTE LTD',
   },
 };

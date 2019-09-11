@@ -1,51 +1,68 @@
-# Services
-## Technical Management  
+# 服务
+## 技术管理  
 <center>
 
 ![LNG WORK](./img/lng.jpg)
-Our LNG vessel completing ship to ship operation
+我们成功完成东南亚首次 LNG 船对船操作
 </center>
-With a collective experience of over 100 years among our team in the maritime industry, we can provide best technical management services to any type and size of the vessels in a very cost-effective manner. Our relationship with major industry players and suppliers enables us to leverage the best pricing for our customers.
-Technical Management function includes the day-to-day technical operation of the vessels in compliance with International Safety Management(ISM) code and other applicable regulations. IMM is certified by Classification Society Lloyds Register to perform its ISM related responsibilities. All vessels under the technical management of IMM receives professional care by marine and technical team. 
-Technical team with its director looks after the technical aspects of operation, arrangement of regular supplies/services and provides necessary guidance/consultation for shipboard team from time to time. 
-Marine Team is composed of the director, managers, superintendents and assistants. They are in charge of cargo operations, ISM related functions of the company and vessels under management. The team has expertise in providing adequate guidelines from very common cargoes to the most complicated ones.  The marine team, in addition, also takes care of the crewing related matters. 
-IMM uses world class, transparent and seamless Cloud based fleet management system for planned maintenance, information management, vessel monitoring, record keeping, purchase processes and finance functions. All customers are provided secure access to the system by individualized online authentication. 
-The unique blend of young and experienced individuals ensures the first class and fully integrated services to our clients across the globe. The company periodically reviews and benchmark its performance to lead ahead of our competitors and ensure that we deliver more than what is promised. 
-## Crew Management:
+凭借我们海事团队超过100年的集体经验，我们可以以极具成本效益的方式为任何类型的船只提供最好的技术管理服务。我们与业界巨头和供应商的良好关系使我们能够为客户提供最佳报价。
+技术管理方面，我们严格按照国际安全管理（ISM）规范和其他适用法规进行日常技术操作。IMM 是经劳氏船级社注册认证以履行其 ISM 相关职责的。IMM 技术管理下的所有船舶均由海事和技术部的专业人员悉心管理。
+技术团队及其主管负责船舶操作技术方面的管理，安排定期的备件及技术服务需求，并不时为船上团队提供必要的指导和咨询。
+海事部由主管、经理、总管和助理组成。他们负责货物业务、ISM相关职能以及所管理的船只。该团队在提供有关货物海运方面的建议和指导意见上拥有专业知识，无论是常规的货物的还是复杂的货物。 此外，海事部还负责有关船员管理方面的事宜。
+IMM 使用世界一流的基于云计算的船队管理系统，用于计划维护、信息管理、船舶监控、记录保存、采购流程和财务功能。通过个性化的在线身份验证，所有客户都能安全地访问系统。
+为确保向全球客户提供一流的、完全集成的服务，我们采取了将年轻和经验丰富的人才融合一处的独特配置。公司定期审核和绩效衡量，以领先于竞争对手，并确保我们的交付超过客户的预期
+
+## 船员管理
 <center>
 
-![LNG WORK](../../img/service_crew.jpg)
+![Service Crew](../../img/service_crew.jpg)
 </center>
-Competent crew is the key to efficient management of the vessels. IMM has sufficient resources to provide qualified, experienced and highly motivated officers and crew on all types of vessels. We can supply Indian, Filipino, Chinese and other prominent nationalities across the world. We understand the importance of crew in the operational success of the vessels. We, at IMM, consider them as brand ambassadors of the company. Each of them is handpicked, trained, evaluated and monitored regularly by our Personnel department. Our strategically located offices across globe facilitates worldwide recruitment and training of our seafarers. 
-The company also provides a wide range of welfare related benefits to all crew members on board our vessels, a policy that is reviewed from time to time setting us apart from our Peers. 
-## New Building & Project Management:
-IMM with its professional team is capable of supporting our Customers with conceptual design, detailed engineering, contact negotiation, plan approval, site supervision, conversion, yard appraisals and project management. Our consultant naval architects and experienced site team supported by technical team is capable of supporting these activities. 
-It is very important to note that the commercial value of the vessel heavily depends on types of permissible cargoes, compliance with forth coming regulations, quality of construction, building specifications etc. Our team adds immense value in this regard with their experience, knowledge and far sighted vision. 
-## Quality Management:
-The condition of the vessel and its crew affects the vessel’s acceptance by commercial operators. The vessels are usually benchmarked against the peers and recognized industry standards. Hence, its important that the vessels very well maintained and presented in the acceptable levels during the inspections. 
-Our qualified and experienced team can provide following services to assess the vessels and prepare them in good time. 
--Pre Vetting Inspections
--Crew Training
--Audits to benchmark the vessels and operating standards
--Prepare Client/trade Specific procedures
+称职的船员是有效管理船舶的关键。IMM 拥有充足的资源，可为各类船只提供合格、经验丰富且积极进取的各级船员。我们可以供应印度，菲律宾，中国和其他在世界各地的优秀船员。我们理解船员对船舶运营成功的重要性。在 IMM，我们把船员视为公司的品牌大使。每一位都由我们的人事部门定期精心挑选、培训、评估和监督。我们处于全球战略位置的办事处为全球海员的招聘和培训提供了便利。
+公司还为船上的所有船员提供广泛的福利，这一政策使我们有别于其他同行，因此公司会经常评审，回顾和提升这一政策的实施。 
 
-## Asset Life Cycle Support: 
+## 新建船和项目管理
 <center>
 
-![LNG WORK](../../img/service_quality.jpg)
+![Service Newbuilding](../../img/service_supervision.jpg)
+</center>
+IMM 及其专业团队能够为客户提供概念设计、详细工程、联系谈判、计划审批、现场监督、转换、船务评估和项目管理等支持。我们的顾问船艇建筑师和经验丰富的现场团队在我们强大的技术团队支持下，能够胜任所有这些活动。
+特别需要注意的是，船舶的商业价值在很大程度上取决于允载货物的类型、即将颁布的法规、施工质量、建筑规格等。我们的团队凭借丰富的经验、知识和前瞻性，在这方面增加了巨大的价值。
+
+## 质量管理
+<center>
+
+![Service Quality](../../img/service_quality.jpg)
+</center>
+一艘船舶及其船员的状况对其被商业经营者顺利接管有着巨大的影响。这些船舶的状况通常会以同行和公认的行业标准为基准。因此，这些船只在检查期间保持良好状况，并达到可接受的评估标准是最重要的。
+我们合格和经验丰富的团队可以提供以下船舶评估服务，以确保其随时处于最佳状态。
+-预审检查
+-船员培训
+-基准测试船舶和操作标准的审计
+-为客户/商业特定程序做准备
+
+
+## 资产生命周期支持 
+<center>
+
+![Service Layup ](../../img/service_insurance.jpg)
 </center>
 
-When the vessels and its operation is entrusted with third parties, its very important that they are inspected and bench marked from time to time against similar vessels and types. The commercial value of the vessel is heavily dependent on its condition, vetting records, and management quality. 
-IMM can undertake/support such periodical inspections on behalf of Ship Owners and provide other necessary life cycle support as following:
-- Pre-Purchase Inspections
-- Condition Inspections 
-- Pre and post finance inspections
-- Scrap voyage assessment
-- P&I Inspections
-- Flag State Inspection 
-- On/Off hire surveys
+当船舶及其运作被委托给第三方时，对类似船只和类型不时进行检查和基准比对是非常重要的。船舶的商业价值在很大程度上取决于其状况、审查记录和管理质量。
+IMM 可以代表船东进行和支持此类定期检查，并提供以下必要的生命周期支持：
+- 购买前检查
+- 状态检查
+- 财务检查之前、之后
+- 报废航程评估
+- P&I 检查
+- 船旗国检验
+- 开租、停租调查
   
-Our prompt and high quality reports provide accurate, factual and client specific information with brief executive summary and pictures. 
-## Lay Up Management:
-Our team can provide Lay Up services across the globe in key locations at normal cost. With our well-developed procedures and maintenance regime, the vessels shall be well taken care during the layup period. 
-With nature of the Shipping Industry, taking the vessels out of service makes commercial sense. Adequate preservation, maintenance, monitoring and regular reports to Clients are the keys during Lay Up
+我们及时和高质量的报告图文并茂的提供准确，属实和与客户相关的信息。
+
+## 搁置管理
+<center>
+
+![Service Commercial](../../img/service_Commercial.jpg)
+</center>
+我们的团队可以以正常成本在全球关键地点提供搁置服务。由于我们完善的程序和维修制度，船舶在搁置期间被很好的看护。
+由于航运业的性质，让一些船舶暂时退出服务极具商业意义。在搁置过程中，适当保管、维护、监控以及定期向客户报告是让客户满意的关键

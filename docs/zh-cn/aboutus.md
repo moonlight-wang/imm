@@ -1,21 +1,21 @@
-# About Us
+# 关于我们
 
-Integrated Maritime Management (IMM) was established by a group of highly experienced and skilled individuals from the shipping industry to offer fully integrated maritime services to the customers across the globe. The company was incorporated in 2019, located strategically in Singapore with branch offices worldwide in key locations. With our collective experience, knowledge and passion, we cater to all areas of Shipping and Ship Management enabled services at a very reasonable cost. Regardless of the size, type, built and nationality of the vessels and crew, we can provide end to end solutions exceeding our customers’ expectations.
+Integrated Maritime Management (IMM) 是由一群来自航运行业经验丰富的人士建立，为全球客户提供全面综合的海事服务。公司于2019年成立，总部战略性地设于新加坡，并在全球关键地点设有分支机构。凭借我们的集体经验、知识和热情，我们以最合理的成本提供航运和船舶管理的所有服务领域。无论船舶和船员的大小、类型、建造和国籍，我们都能提供超出客户期望的全套解决方案
 <center>
 
 ![LNG WORK](./img/lng.jpg)
-Our LNG vessel completing ship to ship operation
+我们成功完成东南亚首次 LNG 船对船操作
 </center>
 
-## Our Vision: 
-Trusted partner to our Customers delivering first class and fully integrated maritime services.
-## Our Mission:
-We are poised to provide comprehensive range of management services with focus on our core values. 
-## Core Values:
-1. **Safety** – Safety is our first priority and assurance.
-2. **Excellence** – Stand apart in everything we do by exceeding our commitment to Customers and industry stake holders. 
-3. **Integrity** – We are committed to delivering our services with highest degree of honesty & transparency.  
-4. **Innovation** – We pride ourselves with constant innovation using most up to date technologies available to provide accuracy and efficiency in our works.
-5. **Protection of Environment** – We carefully consider impact to our environment in everything we do and protect & preserve it. 
-6. **Teamwork** – We believe in achieving together as a team. 
-7. **Customers First** – We strive to meet Customer requirements by providing tailor made solutions.
+## 我们的愿景: 
+成为我们客户最为信任的合作伙伴，提供最优秀的全方位综合海事服务
+## 我们的使命:
+随时随地提供以我们核心价值观为主导力的全方位海事管理服务 
+## 核心价值观:
+1. **安全** – 安全是我们的首要任务和保证
+2. **卓越** – 超越我们对客户和行业股东的承诺，让我们所做的一切都与众不同
+3. **诚信** – 我们的服务具有最高的诚信度和透明度
+4. **创新** – 我们以不断创新为荣，利用最新的技术提高我们工作的准确性和效率
+5. **环境保护** – 我们竭尽所能的降低所有工作对自然环境的影响，并承诺保护和维持自然本色
+6. **团队合作** – 我们坚信团队的力量， 合作共赢才是成功的秘诀 
+7. **客户优先** – 我们通过提供量身定制的解决方案，尽全力满足客户的要求
