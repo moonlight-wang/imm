@@ -62,7 +62,7 @@ IMM 可以代表船东进行和支持此类定期检查，并提供以下必要�
 ## 闲置管理
 <center>
 
-![Service Commercial](../../img/service_Commercial.jpg)
+![Service Commercial](../../img/service_commercial.jpg)
 </center>
 我们的团队可以以正常成本在全球关键地点提供闲置服务。由于我们完善的程序和维修制度，船舶在搁置期间被很好的看护。
 由于航运业的性质，让一些船舶暂时退出服务极具商业意义。在搁置过程中，适当保管、维护、监控以及定期向客户报告是让客户满意的关键

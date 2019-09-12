@@ -60,7 +60,7 @@ Our prompt and high quality reports provide accurate, factual and client specifi
 ## Lay Up Management
 <center>
 
-![Service Commercial](../../img/service_Commercial.jpg)
+![Service Commercial](../../img/service_commercial.jpg)
 </center>
 Our team can provide Lay Up services across the globe in key locations at normal cost. With our well-developed procedures and maintenance regime, the vessels shall be well taken care during the layup period. 
 With nature of the Shipping Industry, taking the vessels out of service makes commercial sense. Adequate preservation, maintenance, monitoring and regular reports to Clients are the keys during Lay Up
