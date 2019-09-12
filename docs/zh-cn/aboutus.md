@@ -4,7 +4,7 @@ Integrated Maritime Management (IMM) 是由一群来自航运行业经验丰富�
 <center>
 
 ![LNG WORK](./img/lng.jpg)
-我们成功完成东南亚首次 LNG 船对船操作
+我们成功完成马来西亚首次 LNG 船对船操作
 </center>
 
 ## 我们的愿景: 
