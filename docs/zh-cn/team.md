@@ -15,7 +15,7 @@
     
 **首席运营官 Paul Varghese**
 </center>
-Paul先生毕业于印度MG university，有9年的海员经验，有3年的轮机长资历。有10年的国际船舶管理公司的管理经验，曾经担任过FLEET MANAGEMENT的船队经理，NOBLE公司的技术总监，同时管理各种类型的船舶。Paul先生具有丰富船舶管理公司的运营经验和技术管理经验。  
+Paul先生曾在Fleet Management和Synergy Maritime公司旗下的各类的船舶上任职，主要航行于太平洋国际航线，曾积功至大管轮职位。他在2009年加入Fleet管理公司，晋升为船队经理。Paul先生在新造船、坞修、大修、商业管理和特殊项目方面有丰富的经验。他于2017年加入Noble Group，成立了自己的船舶管理部门，并于2019年作为创始人和首席运营官加入了Integrated Maritime。带来了19年的行业经验。
 
 #
 <center>
@@ -26,7 +26,8 @@ Paul先生毕业于印度MG university，有9年的海员经验，有3年的轮�
 </center>
 <center>
 </center>
-Rachit船长有11年的海员经验，以海员身份在Exxon Mobil,BP及Bergshav Shipping的各类干散货船、液货船、集装箱船上就职。曾经担任过Exxon Mobil驻伦敦的保险和事故调查顾问，以及OSM船舶管理公司的液货船的经理。Rachit船长有着丰富的各种类型船舶的海务操作、公司运营体系和安全管理经验。 
+
+在Exon Mobil、BP和Bergshav船舶管理公司的海上生涯中，Rachit船长曾多次航行过干散货船、油轮和集装箱船。2007年，他加入了Exon Mobil在伦敦的分公司，并在离开之前担任质量保证和事故调查顾问。2012年，他进入OSM油轮管理部门，担任油轮管理主管。2013年，他创立了屡获殊荣的咨询公司——Safe Lane咨询有限公司。他主管公司所有与海事有关的活动。Rachit船长在航运业有23年的经验。 
 
 # 
 <center>

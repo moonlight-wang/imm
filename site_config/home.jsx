@@ -132,7 +132,7 @@ export default {
         },
         {
           img: '/img/service_supervision.jpg',
-          title: '新船建监管',
+          title: '新造船监管',
           content: '我们完全有能力协助客户做最终规格确定，满足新建船和现场监督的要求，从而实现项目的最佳成本效益的结果',
         }
       ]
