@@ -2,23 +2,24 @@
 
 .bar {
   margin-top: $headerHeight;
-  background-image: linear-gradient(-90deg, $startColor 0%, $intermediateColor 51%, $endColor 100%);
 
   .bar-body2 {
-    // max-width: $contentWidth;
-    margin: 0 auto;
-    height: $barHeight;
-    line-height: $barHeight;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
     font-family: Avenir-Heavy;
     font-size: 36px;
     color: #FFF;
     position: relative;
   }
+  .width{
+    width: 100%;
+  }
 }
 
 .bar {
   margin-top: $headerHeight;
-  background-image: linear-gradient(-90deg, $startColor 0%, $intermediateColor 51%, $endColor 100%);
+  //background-image: linear-gradient(-90deg, $startColor 0%, $intermediateColor 51%, $endColor 100%);
 
   .bar-body {
     // max-width: $contentWidth;

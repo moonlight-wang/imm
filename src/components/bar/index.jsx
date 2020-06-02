@@ -32,7 +32,7 @@ const Bar = (props) => {
   return (
       <div className={cls}>
         <div className="bar-body2">
-          <img src={getLink(img)} />
+          <img className="width" src={getLink(img)} />
         </div>
       </div>
   );
