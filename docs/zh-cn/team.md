@@ -20,21 +20,21 @@ Paul先生曾在Fleet Management和Synergy Maritime公司旗下的各类的船�
 #
 <center>
 
-![CEO](./img/team_rachit.jpg)
+![CEO](./img/team_ajay.png)
     
-**海务总监 Capt. Rachit Jain**
+**海务总监 Capt. Ajay Kumar Das**
 </center>
 <center>
 </center>
 
-在Exon Mobil、BP和Bergshav船舶管理公司的海上生涯中，Rachit船长曾多次航行过干散货船、油轮和集装箱船。2007年，他加入了Exon Mobil在伦敦的分公司，并在离开之前担任质量保证和事故调查顾问。2012年，他进入OSM油轮管理部门，担任油轮管理主管。2013年，他创立了屡获殊荣的咨询公司——Safe Lane咨询有限公司。他主管公司所有与海事有关的活动。Rachit船长在航运业有23年的经验。 
+Ajay Das船长在航运业拥有30余年工作经验，曾在新加坡太平洋天然气公司、英国东方船舶管理公司、PacMarine、V Ship、Stealth燃气公司、海德马、英国石油航运公司等多家国际大型公司担任重要职务。 
 
 # 
 <center>
 
 ![CEO](./img/team_wangyuexian.jpg)
     
-**技术总监 王跃先**
+**APAC 技术总监 王跃先**
 </center>
 王跃先先生毕业于大连海运学院，有18年的船员经验，以及10余年的船舶管理经验。精通散货船、集装箱船、油轮、化学品船，高速客轮以及LNG船的安全及技术管理。是目前中国为数不多的既有柴油机管理经验，又有汽轮机管理经验的专业人士。​
 

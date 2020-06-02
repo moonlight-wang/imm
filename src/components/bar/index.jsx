@@ -5,23 +5,36 @@ import { getLink } from '../../../utils';
 import './index.scss';
 
 const propTypes = {
-  text: PropTypes.string.isRequired, // 显示的文案
+  // text: PropTypes.string.isRequired, // 显示的文案
   img: PropTypes.string.isRequired, // 显示的图片链接
 };
 
+// const Bar = (props) => {
+//   const { text, img } = props;
+//   const cls = classnames({
+//     bar: true,
+//   });
+//   return (
+//     <div className={cls}>
+//       <div className="bar-body">
+//         <img src={getLink(img)} className="front-img" />
+//         <span>{text}</span>
+//         <img src={getLink(img)} className="back-img" />
+//       </div>
+//     </div>
+//   );
+// };
 const Bar = (props) => {
-  const { text, img } = props;
+  const { img } = props;
   const cls = classnames({
     bar: true,
   });
   return (
-    <div className={cls}>
-      <div className="bar-body">
-        <img src={getLink(img)} className="front-img" />
-        <span>{text}</span>
-        <img src={getLink(img)} className="back-img" />
+      <div className={cls}>
+        <div className="bar-body2">
+          <img src={getLink(img)} />
+        </div>
       </div>
-    </div>
   );
 };
 

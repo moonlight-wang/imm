@@ -20,19 +20,19 @@ Paul sailed on board various types of vessels with Pacific International Lines, 
 #
 <center>
 
-![CEO](./img/team_rachit.jpg)
+![CEO](./img/team_ajay.png)
     
-**Director, Marine - Capt. Rachit Jain**
+**Director, Marine - Capt. Ajay Kumar Das**
 </center>
 
-Rachit has sailed on dry bulk, tankers and container vessels during his sea career with Exon Mobil, BP Shipping and Bergshav Ship Management. He joined Exon Mobil in their London in 2007 and was Advisor on Quality Assurance and Incident Investigations prior leaving them. He moved to OSM Tanker Management as Head of Tanker Management in 2012. In 2013, he started the award-winning consulting firm by name Safe Lanes Consultants Pte Ltd. He is the Director in charge of company’s all marine related activities. Rachit has 23 years of experience in the maritime industry.
+Ajay has sailed on dry bulk, tankers and container vessels during his sea career with Anglo Eastern Ship Mgmt until 2001. He joined ashore with PacMarine in 2002 as their vetting consultant before joining V Ships in Cyprus in 2005 as their Marine Supdt. He later moved to Stealth Gas as their Fleet Marine Manager in 2007. He joined Heidmar as their commercial operations Manager in 2010 followed by BP Shipping in their vetting and clearance division. He was heading the marine division of Pacific Gas in Singapore before joining IMM as the Director of Marine. Capt Ajay has 31 years of experience in the maritime industry.
 
 # 
 <center>
 
 ![CEO](./img/team_wangyuexian.jpg)
     
-**Director, Technical - Wang Yue Xian**
+**Director, Technical APAC - Wang Yue Xian**
 </center>
 Wang started his sea career with Cosco Shipping in 1989 . He sailed on board various types vessels including oil, chemical, gas carriers, dry cargo vessels such as containers, bulk carriers etc. Wang came ashore with China LNG in 2007 as Tech Supdt to manage their LNG carriers. He later moved to Farenco Shipping to manage their Bulk Carriers and LNG vessels. He was the Technical Director and General Manager of LNG division with Farenco. With an aggregate experience of 30 years on board and ashore, Wang is the Technical Director of Integrated Maritime. 
 
