@@ -18,7 +18,7 @@
     .header-container .header-body .logo {
       margin-left: 40px;
       width: 244px;
-      vertical-align: sub; }
+      vertical-align: middle; }
     .header-container .header-body .header-menu {
       float: right; }
       .header-container .header-body .header-menu .header-menu-toggle {
@@ -187,17 +187,20 @@
         padding-left: 20px;
         padding-right: 20px; } }
     .footer-container .footer-body img {
-      width: 125px;
-      height: 26px;
+      width: 244px;
       margin-bottom: 28px;
       margin-right: 20px;
       vertical-align: middle; }
     .footer-container .footer-body .cols-container {
-      margin-bottom: 60px; }
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between; }
       .footer-container .footer-body .cols-container .col {
         display: inline-block;
         box-sizing: border-box;
         vertical-align: top; }
+        .footer-container .footer-body .cols-container .col a {
+          color: dodgerblue; }
       .footer-container .footer-body .cols-container .col-12 {
         width: 50%;
         padding-right: 125px; }
@@ -753,7 +756,8 @@
 .markdown-body img {
   max-width: 100%;
   box-sizing: content-box;
-  background-color: #fff; }
+  background-color: #fff;
+  border-radius: 10px; }
 
 .markdown-body img[align=right] {
   padding-left: 20px; }
@@ -1901,21 +1905,24 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     margin: 0 0 40px; }
   .home-page .feature-section ul {
+    display: flex;
+    justify-content: space-evenly;
     list-style: none;
     padding: 0;
     margin: 0; }
     .home-page .feature-section ul li {
+      display: flex;
+      flex-direction: column;
       vertical-align: top;
-      display: inline-block;
-      margin-bottom: 40px;
-      width: 50%; }
+      margin-bottom: 40px; }
       .home-page .feature-section ul li img {
         vertical-align: top;
-        width: 380px;
-        margin-right: 20px; }
+        width: 460px;
+        border-radius: 10px; }
       .home-page .feature-section ul li div {
         display: inline-block;
-        width: 80%; }
+        width: 460px;
+        margin-top: 10px; }
         .home-page .feature-section ul li div h4 {
           font-family: Avenir-Heavy;
           font-size: 20px;
