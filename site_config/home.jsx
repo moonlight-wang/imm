@@ -30,7 +30,9 @@ export default {
           img: '/img/service_quality.jpg',
           title: 'Quality Management',
           content: 'We provide customised Quality Management solutions including pre-vetting inspections, onboard training, internal audits and various other investigations in line with the industry standards and other applicable regulations.',
-        },
+        }
+      ],
+      list2: [
         {
           img: '/img/service_commercial.jpg',
           title: 'Commercial Management',
@@ -40,7 +42,9 @@ export default {
           img: '/img/service_crew.jpg',
           title: 'Crew Management',
           content: 'We provide competent, motivated and experienced crew based on our diligent crew selection process and our presence in countries with major crew nationalities. We use strict matrix for the requirement of new inductees and impart state of the art training.',
-        },
+        }
+      ],
+      list3: [
         {
           img: '/img/service_insurance.jpg',
           title: 'Insurance',
@@ -114,7 +118,9 @@ export default {
           img: '/img/service_quality.jpg',
           title: '质量管理',
           content: '我们提供定制化质量管理解决方案，包括预检检查、船上培训、内部审计以及各种其他符合行业标准和适用法规的调查',
-        },
+        }
+      ],
+      list2: [
         {
           img: '/img/service_commercial.jpg',
           title: '商务管理',
@@ -124,7 +130,9 @@ export default {
           img: '/img/service_crew.jpg',
           title: '船员管理',
           content: '我们能够提供有能力，有动力和有经验的船员，因为我们有一套积极的船员选择过程和我们在主要船员国籍的国家的投入。我们使用严格的需求矩阵来筛选新入职者，并进行最先进的培训',
-        },
+        }
+      ],
+      list3: [
         {
           img: '/img/service_insurance.jpg',
           title: '保险',

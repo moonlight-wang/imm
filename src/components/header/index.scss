@@ -22,7 +22,7 @@
     .logo {
       margin-left: 40px;
       width: 244px;
-      vertical-align: sub;
+      vertical-align: middle;
     }
     .header-menu {
       float: right;
@@ -30,7 +30,7 @@
         display: none;
         width: 19px;
         margin-right: 40px;
-        margin-top: $headerHeight / 2 - 15px; 
+        margin-top: $headerHeight / 2 - 15px;
         cursor: pointer;
       }
     }

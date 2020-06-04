@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { getScrollTop, getLink } from '../../../utils';
+import { getScrollTop } from '../../../utils';
 import Header from '../../components/header';
 import Button from '../../components/button';
 import Footer from '../../components/footer';
@@ -36,7 +36,6 @@ class Home extends Language {
   render() {
     const language = this.getLanguage();
     const dataSource = homeConfig[language];
-    const { headerType } = this.state;
     const headerLogo = '/img/imm_logo.png';
     return (
       <div className="home-page">
@@ -77,6 +76,20 @@ class Home extends Language {
             {
               dataSource.features.list.map((feature, i) => (
                 <Item feature={feature} key={i} />
+              ))
+            }
+          </ul>
+          <ul>
+            {
+              dataSource.features.list2.map((feature, i) => (
+                  <Item feature={feature} key={i} />
+              ))
+            }
+          </ul>
+          <ul>
+            {
+              dataSource.features.list3.map((feature, i) => (
+                  <Item feature={feature} key={i} />
               ))
             }
           </ul>

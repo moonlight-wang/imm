@@ -13,18 +13,22 @@
     }
     img {
       // display: block;
-      width: 125px;
-      height: 26px;
+      width: 244px;
       margin-bottom: 28px;
       margin-right: 20px;
       vertical-align: middle;
     }
     .cols-container {
-      margin-bottom: 60px;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between;
       .col {
         display: inline-block;
         box-sizing: border-box;
         vertical-align: top;
+        a{
+          color: dodgerblue;
+        }
       }
       .col-12 {
         width: 50%;
@@ -84,7 +88,7 @@
       span {
         display: inline-block;
         margin: 0 auto;
-      } 
+      }
     }
   }
 }
