@@ -7,9 +7,9 @@
 </center>
 
 1. 新加坡 – 总部<br>
-70 Shenton Way, 
-#21-11 Eon Shenton, 
-Singapore 079118  
+72 Anson Road, 
+#08-01, Anson House, 
+Singapore 079911  
 Tel: +65 6536 2240  
 Email: info@imaritime.sg
 
