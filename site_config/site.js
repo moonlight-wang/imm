@@ -55,8 +55,8 @@ export default {
         },
       ],
     },
-    copyright: 'Copyright © 2019 Integrated Maritime Group Ltd',
-  }, 
+    copyright: 'Copyright © 2020 Integrated Maritime Group Ltd',
+  },
   'zh-cn': {
     pageMenu: [
       {
@@ -107,6 +107,6 @@ export default {
         },
       ],
     },
-    copyright: 'Copyright © 2019 Integrated Maritime Group Ltd',
+    copyright: 'Copyright © 2020 Integrated Maritime Group Ltd',
   },
 };
