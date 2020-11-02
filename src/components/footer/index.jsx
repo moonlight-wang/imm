@@ -21,8 +21,8 @@ class Footer extends React.Component {
           <div className="cols-container">
             <div className="col col-12">
               <h3>Head Office</h3>
-              <p>72 Anson Road, #08-01, Anson House, Singapore 079911 </p>
-              <p>Tel: <a href="tel:+65 6536 2240">+65 6536 2240</a></p>
+              <p>72 Anson Road, #08-01/05, Anson House, Singapore 079911 </p>
+              <p>Tel: <a href="tel:+65 6432 8500">+65 6432 8500</a></p>
               <p>Email: <a href="mailto:info@imaritime.sg">info@imaritime.sg</a></p>
             </div>
             <div className="col col-6">
