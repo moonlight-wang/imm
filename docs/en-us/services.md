@@ -12,6 +12,15 @@ Marine Team is composed of the director, managers, superintendents and assistant
 IMM uses world class, transparent and seamless Cloud based fleet management system for planned maintenance, information management, vessel monitoring, record keeping, purchase processes and finance functions. All customers are provided secure access to the system by individualized online authentication. 
 The unique blend of young and experienced individuals ensures the first class and fully integrated services to our clients across the globe. The company periodically reviews and benchmark its performance to lead ahead of our competitors and ensure that we deliver more than what is promised. 
 
+## Cruise Management
+<center>
+
+![](../../img/service_cruise3.jpg)
+![](../../img/service_cruise4.jpg)
+</center>
+IMM also has extensive experience in managing the Cruise Ships. Our team comes with excellent cruise industry experience. IMM is capable of providing technical management, hotel management and crew management for Cruise Ships trading worldwide.
+
+
 ## Crew Management
 <center>
 

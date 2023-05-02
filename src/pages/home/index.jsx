@@ -7,6 +7,7 @@ import Footer from '../../components/footer';
 import Language from '../../components/language';
 import Item from './featureItem';
 import homeConfig from '../../../site_config/home';
+import { getLink } from '../../../utils';
 import './index.scss';
 
 class Home extends Language {
@@ -72,9 +73,26 @@ class Home extends Language {
         </section> */}
         <section className="feature-section">
           <h3>{dataSource.features.title}</h3>
+          <ul className='list-obj-img'>
+              {
+                dataSource.features.listObj.imgs.map((img, i) => (
+                  <li key={i}>
+                    <img src={getLink(img)}/>
+                  </li>
+                ))
+              }
+          </ul>
+          <ul className='list-obj-remark'>
+            <li>
+              <div>
+                  <h4>{dataSource.features.listObj.title}</h4>
+                  <p>{dataSource.features.listObj.content}</p>
+                </div>
+            </li>
+          </ul>
           <ul>
             {
-              dataSource.features.list.map((feature, i) => (
+              dataSource.features.list1.map((feature, i) => (
                 <Item feature={feature} key={i} />
               ))
             }

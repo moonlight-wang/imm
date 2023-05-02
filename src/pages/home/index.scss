@@ -280,6 +280,23 @@ $animation5Height: 460px;
       list-style: none;
       padding: 0;
       margin: 0;
+      &.list-obj-img {
+        li {
+          margin-bottom: 0;
+          img {
+            height: 290px;
+            object-fit: cover;
+          }
+        }
+      }
+      &.list-obj-remark {
+        li {
+          width: 1013px;
+          div {
+            width: 100%;
+          }
+        }
+      }
       li {
         display: flex;
         flex-direction: column;

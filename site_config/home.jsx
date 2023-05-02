@@ -20,7 +20,12 @@ export default {
     },
     features: {
       title: 'Our Services',
-      list: [
+      listObj: {
+        imgs: ['/img/service_cruise2.jpg', '/img/service_cruise1.jpg'],
+        title: 'Cruise Management',
+        content: 'IMM also has extensive experience in managing the Cruise Ships. Our team comes with excellent cruise industry experience. IMM is capable of providing technical management, hotel management and crew management for Cruise Ships trading worldwide.',
+      },
+      list1: [
         {
           img: '/img/service_tech.jpg',
           title: 'Technical Management',
@@ -108,7 +113,12 @@ export default {
     },
     features: {
       title: '我们的服务',
-      list: [
+      listObj: {
+        imgs: ['/img/service_cruise2.jpg', '/img/service_cruise1.jpg'],
+        title: '邮轮管理',
+        content: 'IMM在管理游轮方面也有丰富的经验。我们的团队拥有丰富的邮轮行业经验。IMM能够为全球邮轮贸易提供技术管理、酒店管理和船员管理。',
+      },
+      list1: [
         {
           img: '/img/service_tech.jpg',
           title: '技术管理',
