@@ -18,7 +18,7 @@ The unique blend of young and experienced individuals ensures the first class an
 ![](../../img/service_cruise3.jpg)
 ![](../../img/service_cruise4.jpg)
 </center>
-IMM also has extensive experience in managing the Cruise Ships. Our team comes with excellent cruise industry experience. IMM is capable of providing technical management, hotel management and crew management for Cruise Ships trading worldwide.
+IMM has extensive experience in managing the Cruise Ships. Our team comes with excellent cruise industry experience. IMM is capable of providing technical management, hotel management and crew management for Cruise Ships trading worldwide.
 
 
 ## Crew Management

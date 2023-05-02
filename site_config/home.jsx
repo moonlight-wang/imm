@@ -23,7 +23,7 @@ export default {
       listObj: {
         imgs: ['/img/service_cruise2.jpg', '/img/service_cruise1.jpg'],
         title: 'Cruise Management',
-        content: 'IMM also has extensive experience in managing the Cruise Ships. Our team comes with excellent cruise industry experience. IMM is capable of providing technical management, hotel management and crew management for Cruise Ships trading worldwide.',
+        content: 'IMM has extensive experience in managing the Cruise Ships. Our team comes with excellent cruise industry experience. IMM is capable of providing technical management, hotel management and crew management for Cruise Ships trading worldwide.',
       },
       list1: [
         {
