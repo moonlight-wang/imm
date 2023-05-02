@@ -1910,6 +1910,15 @@ h1, h2, h3, h4, h5, h6 {
     list-style: none;
     padding: 0;
     margin: 0; }
+    .home-page .feature-section ul.list-obj-img li {
+      margin-bottom: 0; }
+      .home-page .feature-section ul.list-obj-img li img {
+        height: 290px;
+        object-fit: cover; }
+    .home-page .feature-section ul.list-obj-remark li {
+      width: 1013px; }
+      .home-page .feature-section ul.list-obj-remark li div {
+        width: 100%; }
     .home-page .feature-section ul li {
       display: flex;
       flex-direction: column;
