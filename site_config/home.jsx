@@ -116,7 +116,7 @@ export default {
       listObj: {
         imgs: ['/img/service_cruise2.jpg', '/img/service_cruise1.jpg'],
         title: '邮轮管理',
-        content: 'IMM在管理游轮方面也有丰富的经验。我们的团队拥有丰富的邮轮行业经验。IMM能够为全球邮轮贸易提供技术管理、酒店管理和船员管理。',
+        content: 'IMM在管理游轮方面有着丰富的经验。我们的管理团队拥有丰富的邮轮业界经验。IMM能够为全球邮轮贸易提供技术管理、酒店管理和船员管理。',
       },
       list1: [
         {
