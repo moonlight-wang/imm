@@ -328,9 +328,21 @@ $animation5Height: 460px;
           }
         }
       }
-      @media screen and (max-width: 768px){
+    }
+    @media screen and (max-width: 768px){
+      ul, ul.list-obj-remark{
+        flex-wrap: wrap;
+        &.list-obj-img {
+          li {
+            margin-bottom: 4px;
+          }
+        }
         li {
+          flex-shrink: 0;
           width: 100%;
+          img, div {
+            width: 100%;
+          }
         }
       }
     }

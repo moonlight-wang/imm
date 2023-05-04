@@ -17,7 +17,7 @@
 </center>
 Paul先生曾在Fleet Management和Synergy Maritime公司旗下的各类的船舶上任职，主要航行于太平洋国际航线，曾积功至大管轮职位。他在2009年加入Fleet管理公司，晋升为船队经理。Paul先生在新造船、坞修、大修、商业管理和特殊项目方面有丰富的经验。他于2017年加入Noble Group，成立了自己的船舶管理部门，并于2019年作为创始人和首席运营官加入了Integrated Maritime。带来了19年的行业经验。
 
-#
+<!-- #
 <center>
 
 ![CEO](./img/team_ajay.png)
@@ -27,14 +27,14 @@ Paul先生曾在Fleet Management和Synergy Maritime公司旗下的各类的船�
 <center>
 </center>
 
-Ajay Das船长在航运业拥有30余年工作经验，曾在新加坡太平洋天然气公司、英国东方船舶管理公司、PacMarine、V Ship、Stealth燃气公司、海德马、英国石油航运公司等多家国际大型公司担任重要职务。 
+Ajay Das船长在航运业拥有30余年工作经验，曾在新加坡太平洋天然气公司、英国东方船舶管理公司、PacMarine、V Ship、Stealth燃气公司、海德马、英国石油航运公司等多家国际大型公司担任重要职务。  -->
 
 # 
 <center>
 
 ![CEO](./img/team_wangyuexian.jpg)
     
-**APAC 技术总监 王跃先**
+**副总裁 王跃先**
 </center>
 王跃先先生毕业于大连海运学院，有18年的船员经验，以及10余年的船舶管理经验。精通散货船、集装箱船、油轮、化学品船，高速客轮以及LNG船的安全及技术管理。是目前中国为数不多的既有柴油机管理经验，又有汽轮机管理经验的专业人士。​
 
