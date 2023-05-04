@@ -1942,9 +1942,16 @@ h1, h2, h3, h4, h5, h6 {
           font-size: 14px;
           line-height: 20px;
           color: #999; }
-    @media screen and (max-width: 768px) {
-      .home-page .feature-section ul li {
-        width: 100%; } }
+  @media screen and (max-width: 768px) {
+    .home-page .feature-section ul, .home-page .feature-section ul.list-obj-remark {
+      flex-wrap: wrap; }
+      .home-page .feature-section ul.list-obj-img li, .home-page .feature-section ul.list-obj-remark.list-obj-img li {
+        margin-bottom: 4px; }
+      .home-page .feature-section ul li, .home-page .feature-section ul.list-obj-remark li {
+        flex-shrink: 0;
+        width: 100%; }
+        .home-page .feature-section ul li img, .home-page .feature-section ul li div, .home-page .feature-section ul.list-obj-remark li img, .home-page .feature-section ul.list-obj-remark li div {
+          width: 100%; } }
 
 .home-page .start-section {
   background-image: linear-gradient(0deg, #03DDE4 0%, #30AFED 51%, #8755FF 100%); }
