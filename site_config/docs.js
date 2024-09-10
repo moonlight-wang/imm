@@ -12,10 +12,10 @@ export default {
             title: 'Services',
             link: '/en-us/docs/services.html',
           },
-          {
-            title: 'Team',
-            link: '/en-us/docs/team.html',
-          },
+          // {
+          //   title: 'Team',
+          //   link: '/en-us/docs/team.html',
+          // },
           {
             title: 'Contact Us',
             link: '/en-us/docs/contactus.html',
@@ -42,10 +42,10 @@ export default {
             title: '服务',
             link: '/zh-cn/docs/services.html',
           },
-          {
-            title: '团队',
-            link: '/zh-cn/docs/team.html',
-          },
+          // {
+          //   title: '团队',
+          //   link: '/zh-cn/docs/team.html',
+          // },
           {
             title: '联系我们',
             link: '/zh-cn/docs/contactus.html',

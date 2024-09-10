@@ -2,54 +2,54 @@
   "en-us": [
     {
       "filename": "aboutus.md",
-      "link": "\\en-us\\docs\\aboutus.html",
+      "link": "/en-us/docs/aboutus.html",
       "meta": {}
     },
     {
       "filename": "contactus.md",
-      "link": "\\en-us\\docs\\contactus.html",
+      "link": "/en-us/docs/contactus.html",
       "meta": {}
     },
     {
       "filename": "joinus.md",
-      "link": "\\en-us\\docs\\joinus.html",
+      "link": "/en-us/docs/joinus.html",
       "meta": {}
     },
     {
       "filename": "services.md",
-      "link": "\\en-us\\docs\\services.html",
+      "link": "/en-us/docs/services.html",
       "meta": {}
     },
     {
       "filename": "team.md",
-      "link": "\\en-us\\docs\\team.html",
+      "link": "/en-us/docs/team.html",
       "meta": {}
     }
   ],
   "zh-cn": [
     {
       "filename": "aboutus.md",
-      "link": "\\zh-cn\\docs\\aboutus.html",
+      "link": "/zh-cn/docs/aboutus.html",
       "meta": {}
     },
     {
       "filename": "contactus.md",
-      "link": "\\zh-cn\\docs\\contactus.html",
+      "link": "/zh-cn/docs/contactus.html",
       "meta": {}
     },
     {
       "filename": "joinus.md",
-      "link": "\\zh-cn\\docs\\joinus.html",
+      "link": "/zh-cn/docs/joinus.html",
       "meta": {}
     },
     {
       "filename": "services.md",
-      "link": "\\zh-cn\\docs\\services.html",
+      "link": "/zh-cn/docs/services.html",
       "meta": {}
     },
     {
       "filename": "team.md",
-      "link": "\\zh-cn\\docs\\team.html",
+      "link": "/zh-cn/docs/team.html",
       "meta": {}
     }
   ]

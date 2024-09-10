@@ -22,11 +22,11 @@ export default {
         text: 'Services',
         link: '/en-us/docs/services.html',
       },
-      {
-        key: 'team',
-        text: 'Team',
-        link: '/en-us/docs/team.html',
-      },
+      // {
+      //   key: 'team',
+      //   text: 'Team',
+      //   link: '/en-us/docs/team.html',
+      // },
       {
         key: 'contact us',
         text: 'Contact Us',
@@ -74,11 +74,11 @@ export default {
         text: '服务',
         link: '/zh-cn/docs/services.html',
       },
-      {
-        key: '团队',
-        text: '团队',
-        link: '/zh-cn/docs/team.html',
-      },
+      // {
+      //   key: '团队',
+      //   text: '团队',
+      //   link: '/zh-cn/docs/team.html',
+      // },
       {
         key: '联系我们',
         text: '联系我们',
