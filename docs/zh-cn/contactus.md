@@ -18,8 +18,8 @@ Email: info@imaritime.sg
 Tel: +86 10 6530 8801  
 Email: info@imaritime.cn
 
-3. 迪拜 - 分公司
+3. 迪拜 - 分公司<br>
 迪拜商务湾3106号丘吉尔大厦31楼
 
-4. 印度 - 分公司
+4. 印度 - 分公司<br>
 Maipan，PO Meckad，Nedumbassery，喀拉拉邦，印度–683 589
