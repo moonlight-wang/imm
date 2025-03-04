@@ -20,6 +20,7 @@ Tel: +86 10 6530 8801
 Email: info@imaritime.cn
 
 3. Dubai - Branch Office<br>
+Ascension Ship Management & Operation LLC<br>
 Churchill Tower,  31st  Floor,  3106, Business bay, Dubai
 
 4. India - Branch Office<br>
