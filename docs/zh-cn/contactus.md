@@ -19,7 +19,15 @@ Tel: +86 10 6530 8801
 Email: info@imaritime.cn
 
 3. 迪拜 - 分公司<br>
-迪拜商务湾3106号丘吉尔大厦31楼
+迪拜商务湾3106号丘吉尔大厦31楼<br>
+Tel: +97145752849<br>
+Email: asmfleet@ascensionships.com
 
 4. 印度 - 分公司<br>
-Maipan，PO Meckad，Nedumbassery，喀拉拉邦，印度–683 589
+印度哈里亚纳邦古尔冈市56区一号大厦8层803单元<br>
+Tel: +91124 430 3094<br>
+Email: pminfo@prudentmarine.com<br>
+
+5. 雅加达 - 分公司<br>
+雅加达南区，金都大型商务区，伊达・阿纳克・阿贡・格德・阿贡博士路D地块，雅加达首都世界大厦 1 楼<br>
+Email: mci@imaritime.sg 
